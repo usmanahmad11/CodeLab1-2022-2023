@@ -3,23 +3,27 @@ CodeLab I - CCO4000-20 Module Materials
 
 ## Module Overview
 
-CodeLab I is a rapid prototyping workshop series that introduces the fundamentals of Python programming. You encounter the first principles of coding from computational thinking and maths for programmers to key elements such as variables, conditionals, loops, arrays and functions.
+CodeLab I is a rapid prototyping workshop series that introduces the fundamentals of Python programming. You encounter the first principles of coding from computational thinking and maths for programmers to key elements such as variables, conditionals, loops,Lists,sets,dictionaries,tuples, arrays and functions.
 
 We assume little to no prior experience of coding on entry. You learn Python programming from the ground up, working through coding challenges and creative briefs that help embed new techniques and best practice into your programming ‘toolkit’.
 
-The module has two themes: Logic and C++.
+The module has two themes: Logic and Python.
 
 #### Logic
 
 A primer in algorithmic thinking. You solve logic problems, tackle mathematical challenges common in programming and design basic algorithms. This section is designed to slow down your thinking so you can break down problems into discrete solvable steps.
 
-#### C++
+#### Python
 
 An introduction to the core concepts of programming. You build simple applications that support your understanding of the following topics:
 
 * Data types (int, float, double, boolean, char, string)
 * Basic user interactivity
 * Operators
+* List
+* Tuples
+* Set
+* Dictionaries
 * Conditional statements (if, if-else, switch)
 * Control flow statements (while, do-while, for)
 * Arrays
@@ -53,4 +57,4 @@ Guides on cloning this repository to your machine via GitHub desktop are provide
 
 ### Resources
 
-Useful code snippets for common tasks in C++
+Useful code snippets for common tasks in Python
