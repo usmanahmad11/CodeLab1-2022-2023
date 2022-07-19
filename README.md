@@ -3,9 +3,9 @@ CodeLab I - CCO4000-20 Module Materials
 
 ## Module Overview
 
-CodeLab I is a rapid prototyping workshop series that introduces the fundamentals of procedural programming. You encounter the first principles of coding from computational thinking and maths for programmers to key elements such as variables, conditionals, loops, arrays and functions.
+CodeLab I is a rapid prototyping workshop series that introduces the fundamentals of Python programming. You encounter the first principles of coding from computational thinking and maths for programmers to key elements such as variables, conditionals, loops, arrays and functions.
 
-We assume little to no prior experience of coding on entry. You learn procedural programming from the ground up, working through coding challenges and creative briefs that help embed new techniques and best practice into your programming ‘toolkit’.
+We assume little to no prior experience of coding on entry. You learn Python programming from the ground up, working through coding challenges and creative briefs that help embed new techniques and best practice into your programming ‘toolkit’.
 
 The module has two themes: Logic and C++.
 
