@@ -7,26 +7,14 @@ Once you have completed your solution you should make sure you commit and push y
 ---
 &nbsp;
 
-## Exercise 1: Data Types :ballot_box_with_check:
+## Exercise 1: Variables:
 
 Type out the code below and add the correct data types to complete the variables
 
-```C++
-#include <iostream>
-#include <string>
-using namespace std;
+Assign a message to a variable, and print that message.
+Then change the value of the variable to a new message, and print the new
+message.
 
-int main() {
-    firstNumber = 1;
-    iCanCode = true;
-    hopefulGrade = 'a';
-    myDecimal = 1.0;
-    minimalSentance = "y";
-    keyMash = 13213123;
-    mysteryDataType = 5.6f; //Use Google to work this out
-
-    return 0;
-}
 ```
 &nbsp;
 &nbsp;
