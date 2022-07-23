@@ -4,7 +4,7 @@ Exercises with a tick mark :ballot_box_with_check: represent exercises that must
 
 Once you have completed your solution you should make sure you commit and push your solutions to your remote repository on GitHub. You can commit and push as many changes to your solutions as you wish, only those pushed before the chapter deadlines will be marked for the Programming Skills Portfolio.  
 
----
+
 &nbsp;
 
 ## Exercise 1: Variables:
@@ -15,7 +15,6 @@ Assign a message to a variable, and print that message.
 Then change the value of the variable to a new message, and print the new
 message.
 
-```
 &nbsp;
 &nbsp;
 &nbsp;
