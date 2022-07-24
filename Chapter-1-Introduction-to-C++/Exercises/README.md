@@ -30,61 +30,23 @@ Albert Einstein once said, “A person who never made a mistake never tried anyt
 &nbsp;
 &nbsp;
 &nbsp;
-## Exercise 3: Untidy Code :ballot_box_with_check:
+## Exercise 3: Stripping Names :ballot_box_with_check:
 
 Tidy up the code to make it easier to understand
 
-```C++
-#include <iostream>
-#include <string>
-using namespace std;
+Use a variable to represent a person’s name, and include some whitespace characters at the beginning and end of the name. Make sure you use each character combination, “\t” and “\n”, at least once.
 
-int main(){
-    cout << "This is untidy code.";
+Print the name once, so the whitespace around the name is displayed. 
 
-    cout <<                     "I'm surprised it works.";
-
-int   number =   6;
-    cout << "It has" <<
-        number <<  "lines of code  - "     ;
+Then print the name using each of the three stripping functions, lstrip(), rstrip(), and strip().
 
 
-    cout << "each more hideous than the last.      ";
-                cout << "You probably should add some line breaks in the text too" << endl;
-
-    return 0;
-
-}
-```
 &nbsp;
 &nbsp;
 &nbsp;
-## Exercise 4: St Ives :ballot_box_with_check:
-
-#### Part 1
-
-The idea here is to translate the following famous riddle to C++. Each number in bold needs to be stored in a variable that must be declared and initialised at the beginning of the program. Then you should use output statements to print the riddle to the console.
-
-
->*As I was going to St. Ives, I met __1__ man with __7__ wives  
->Each wife had __7__ sacks, each sack had __7__ cats, each cat had __7__ kits  
->Kits, cats, sacks and wives,  
->How many were going to St. Ives?*
-
-
-#### Part 2
-
-So we know that the answer to this riddle is just 1. The only person going to St. Ives is the narrator. But how many Kits, Cats, Sacks and Wives did the narrator meet?
-
-Use your variables (and perhaps create new ones) to calculate and print the total number of ‘items’ the man met whilst going to St Ives.
-
-Hint: If each wife had 7 sacks, each containing 7 cats, who each had 7 kits, then the following pseudocode expression calculates the number of kits:
-
-```
-Total Kits = 7 (wives) x 7 (sacks) x 7 (cats) x 7 (kits)
-```
-
-You will have to write similar mathematical expressions to find the total number of ‘items’ met while to St. Ives.
+## Exercise 4: Favorite Number :ballot_box_with_check:
+Use a variable to represent your favorite number. Then,using that variable, create a message that reveals your favorite number. Print
+that message.
 
 &nbsp;
 &nbsp;
@@ -121,11 +83,11 @@ Create a program that prints your name, hometown and age to the console. The pro
 
 * Each item should be stored using a variable of an appropriate data type.
 * Each item should be printed on a new line.
-* You can only use cout once.
+
 
 
 #### Part 2
-Modify your program such that the computer asks the user for their name and hometown, then stores these in variables (hint: we’ve used cout for output, perhaps there is something similar for input? Also for now only give it your first name). Now use the variables to print the short biography with the values entered by the user.
+Modify your program such that the computer asks the user for their name and hometown, then stores these in variables (hint: You can use "input" for taking the user input ) Also for now only give it your first name). Now use the variables to print the short biography with the values entered by the user.
 
 
 ##### Extension Problem (optional):
@@ -165,30 +127,4 @@ Write a program that calculates (and displays) the area (A) and circumference (C
 &nbsp;
 &nbsp;
 
-## Exercise 9: Paint
 
-#### Part 1
-Start a new project and add the following code. Complete the missing statements so the program functions
-
-```C++
-#include <iostream>
-#include <string>
-using namespace std;
-int main() {
-    //consts are variables whose value cannot be modified later
-    const int COVERAGE = 350; // paint covers 350 sq ft per gallon
-    // declare integers length, width, and height
-    // declare double totalSqFt;
-    // declare double paintNeeded;
-    // prompt for and read in the length of the room
-    // prompt for and read in the width of the room
-    // prompt for and read in the height of the room
-    // Compute the total square feet to be painted - think about   the dimensions of each wall assuming standard four wall room.
-    // Compute the amount of paint needed
-    // Print the length, width, and height of the room, the total square feet and number of gallons of paint required
-    return 0;
-}
-```
-
-#### Part 2
-Suppose the room has doors and windows that don’t need painting. Ask the user to enter the number of doors and number of windows in the room, and adjust the total square feet to be painted accordingly. Assume that each door is 20 square feet and each window is 15 square feet.
