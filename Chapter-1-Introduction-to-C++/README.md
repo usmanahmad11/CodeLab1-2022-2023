@@ -1,4 +1,4 @@
-# Chapter 1 - Introduction to C++
+# Chapter 1 - Introduction to Python
 
 * [Coding Conventions](#coding-conventions)
 * [Variables and Data Types](#variables-and-data-types)
