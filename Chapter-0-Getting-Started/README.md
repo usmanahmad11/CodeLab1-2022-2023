@@ -17,7 +17,7 @@ Programming is a difficult skill to master and you will struggle to get to grips
 
 ## Further Reading & Bonus exercises
 
-If you have previous programming experience you will find advanced notes with further reading resources, extension problems to the exercises and more advanced bonus exercises in this workbook to push your knowledge. You will also find an additional bonus exercises workbook on Aura / your GitHub repository, which provide longer programming tasks that can be solved in a variety of ways. Tackle them in any order you wish. Each will require a mixture of the techniques introduced through the workshops so far (selection, loops, arrays, functions, etc). Some of these exercises will take a number of hours / days to complete and are there to help push the boundaries of your C++ knowledge.
+If you have previous programming experience you will find advanced notes with further reading resources, extension problems to the exercises and more advanced bonus exercises in this workbook to push your knowledge. You will also find an additional bonus exercises workbook on Aura / your GitHub repository, which provide longer programming tasks that can be solved in a variety of ways. Tackle them in any order you wish. Each will require a mixture of the techniques introduced through the workshops so far (selection, loops, arrays, functions, etc). Some of these exercises will take a number of hours / days to complete and are there to help push the boundaries of your Python programming knowledge.
 
 
 
@@ -30,4 +30,4 @@ Guides on using GitHub can be found on Aura and if you have any questions let yo
 
 ## Spot an error?
 
-If you spot an error in these chapters please let me know via arshiya@bathspa.ae
+If you spot an error in these chapters please let me know via usman@bathspa.ae
